@@ -8,10 +8,22 @@
 				"C:/Users/culbreatha814/Desktop/AC_IMA_FPSGame/FPS_3D_Project/Content/Levels/LevelPrototype_FPS.umap",
 				"C:/Users/culbreatha814/Desktop/AC_IMA_FPSGame/FPS_3D_Project/Content/Materials/Matte_ForestGreen.uasset",
 				"C:/Users/culbreatha814/Desktop/AC_IMA_FPSGame/FPS_3D_Project/Content/TopDown/Blueprints/BP_Player.uasset",
-				"C:/Users/culbreatha814/Desktop/AC_IMA_FPSGame/FPS_3D_Project/Content/TopDown/Blueprints/BP_Player_Copy.uasset",
-				"C:/Users/culbreatha814/Desktop/AC_IMA_FPSGame/FPS_3D_Project/Content/TopDown/Blueprints/BP_Player_Prototype.uasset",
 				"C:/Users/culbreatha814/Desktop/AC_IMA_FPSGame/FPS_3D_Project/Content/TopDown/Blueprints/BP_Custom_GameMode.uasset",
-				"C:/Users/culbreatha814/Desktop/AC_IMA_FPSGame/FPS_3D_Project/Content/TopDown/Blueprints/BP_Player_FPSPrototype.uasset"
+				"C:/Users/culbreatha814/Desktop/AC_IMA_FPSGame/FPS_3D_Project/Content/TopDown/Blueprints/BP_Player_FPSPrototype.uasset",
+				"C:/Users/culbreatha814/Desktop/AC_IMA_FPSGame/FPS_3D_Project/Content/Materials/Matte_Cyan.uasset",
+				"C:/Users/culbreatha814/Desktop/AC_IMA_FPSGame/FPS_3D_Project/Content/Art/Models/Character_Cube.uasset",
+				"C:/Users/culbreatha814/Desktop/AC_IMA_FPSGame/FPS_3D_Project/Content/Art/Models/Character_Weapon.uasset",
+				"C:/Users/culbreatha814/Desktop/AC_IMA_FPSGame/FPS_3D_Project/Content/Art/Models/SK_Character_Cube.uasset",
+				"C:/Users/culbreatha814/Desktop/AC_IMA_FPSGame/FPS_3D_Project/Content/Art/Models/SKM_Character_Cube.uasset",
+				"C:/Users/culbreatha814/Desktop/AC_IMA_FPSGame/FPS_3D_Project/Content/Materials/Matte_DarkBlue.uasset",
+				"C:/Users/culbreatha814/Desktop/AC_IMA_FPSGame/FPS_3D_Project/Content/Art/Models/SK_Character_Weapon.uasset",
+				"C:/Users/culbreatha814/Desktop/AC_IMA_FPSGame/FPS_3D_Project/Content/Art/Models/SKM_Character_Weapon.uasset",
+				"C:/Users/culbreatha814/Desktop/AC_IMA_FPSGame/FPS_3D_Project/Content/FPS/Blueprints/BP_Player_FPSPrototype.uasset",
+				"C:/Users/culbreatha814/Desktop/AC_IMA_FPSGame/FPS_3D_Project/Content/Art/Animations/FPS/ABP_Character.uasset",
+				"C:/Users/culbreatha814/Desktop/AC_IMA_FPSGame/FPS_3D_Project/Content/FPS/Blueprints/BP_FPSPlayer.uasset",
+				"C:/Users/culbreatha814/Desktop/AC_IMA_FPSGame/FPS_3D_Project/Content/FPS/Blueprints/BP_MovingPlatform.uasset",
+				"C:/Users/culbreatha814/Desktop/AC_IMA_FPSGame/FPS_3D_Project/Content/TopDown/Blueprints/BP_Player_Copy.uasset",
+				"C:/Users/culbreatha814/Desktop/AC_IMA_FPSGame/FPS_3D_Project/Content/TopDown/Blueprints/BP_Player_Prototype.uasset"
 			]
 		}
 	]
