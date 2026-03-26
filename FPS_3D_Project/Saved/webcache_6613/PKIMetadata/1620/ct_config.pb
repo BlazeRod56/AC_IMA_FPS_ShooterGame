@@ -1,4 +1,4 @@
-·¦UÈêÚÍ *)
+·¦UášõÍ *)
 Googlegoogle-ct-logs@googlegroups.com*$
 
 Cloudflarect-logs@cloudflare.com*
