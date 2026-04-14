@@ -25,6 +25,11 @@
 				"C:/Users/culbreatha814/Desktop/AC_IMA_FPSGame/FPS_3D_Project/Content/Input/IMC_Default.uasset",
 				"C:/Users/culbreatha814/Desktop/AC_IMA_FPSGame/FPS_3D_Project/Content/Input/Actions/IA_Shoot.uasset",
 				"C:/Users/culbreatha814/Desktop/AC_IMA_FPSGame/FPS_3D_Project/Content/FPS/Blueprints/SFX/SFX_Shoot.uasset",
+				"C:/Users/culbreatha814/Desktop/AC_IMA_FPSGame/FPS_3D_Project/Content/FPS/Blueprints/BP_AI_Controller.uasset",
+				"C:/Users/culbreatha814/Desktop/AC_IMA_FPSGame/FPS_3D_Project/Content/FPS/AI/BP_AI_Enemy.uasset",
+				"C:/Users/culbreatha814/Desktop/AC_IMA_FPSGame/FPS_3D_Project/Content/FPS/AI/BT_AI_Enemy.uasset",
+				"C:/Users/culbreatha814/Desktop/AC_IMA_FPSGame/FPS_3D_Project/Content/FPS/AI/BB_AI_Enemy.uasset",
+				"C:/Users/culbreatha814/Desktop/AC_IMA_FPSGame/FPS_3D_Project/Content/FPS/Blueprints/BP_AI_Character.uasset",
 				"C:/Users/culbreatha814/Desktop/AC_IMA_FPSGame/FPS_3D_Project/Content/TopDown/Blueprints/BP_Player_FPSPrototype.uasset",
 				"C:/Users/culbreatha814/Desktop/AC_IMA_FPSGame/FPS_3D_Project/Content/TopDown/Blueprints/BP_Player_Copy.uasset",
 				"C:/Users/culbreatha814/Desktop/AC_IMA_FPSGame/FPS_3D_Project/Content/TopDown/Blueprints/BP_Player_Prototype.uasset"
