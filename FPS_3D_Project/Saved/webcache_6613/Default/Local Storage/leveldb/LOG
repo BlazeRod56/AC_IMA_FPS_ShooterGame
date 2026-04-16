@@ -1,3 +1,5 @@
-2026/04/16-15:33:25.438 4ca0 Reusing MANIFEST C:\Users\culbreatha814\Desktop\AC_IMA_FPSGame\FPS_3D_Project\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/04/16-15:33:25.442 4ca0 Recovering log #3
-2026/04/16-15:33:25.443 4ca0 Reusing old log C:\Users\culbreatha814\Desktop\AC_IMA_FPSGame\FPS_3D_Project\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/04/16-15:45:04.786 4d48 Reusing MANIFEST C:\Users\culbreatha814\Desktop\AC_IMA_FPSGame\FPS_3D_Project\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/04/16-15:45:04.789 4d48 Recovering log #3
+2026/04/16-15:45:04.790 4d48 Level-0 table #3: started
+2026/04/16-15:45:04.794 4d48 Level-0 table #3: 60838 bytes OK
+2026/04/16-15:45:04.798 4d48 Delete type=0 #3
