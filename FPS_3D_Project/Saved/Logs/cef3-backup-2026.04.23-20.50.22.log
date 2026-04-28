@@ -1,0 +1,8 @@
+[24048:30300:0423/162155.073:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[24048:26856:0423/162155.096:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[24048:30300:0423/162155.104:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[29308:28948:0423/162156.575:ERROR:backend_impl.cc(989)] Critical error found -8
+[29308:28948:0423/162156.575:ERROR:entry_impl.cc(1029)] No file for b2020000
+[29308:28948:0423/162156.575:WARNING:storage_block-inl.h(138)] Failed data load.
+[7980:24696:0423/162156.821:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-C76E395A1CC1D4B94A2FC1BC87FD707B will be ignored
+[24048:30300:0423/165022.584:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
